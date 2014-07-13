@@ -2,7 +2,7 @@
 
 > A a curated list of curated lists of awesome lists.
 
-## Programming languages
+## awesome-awesomes
 
 - [awesome](https://github.com/sindresorhus/awesome)
 - [awesome-awesome](https://github.com/emijrp/awesome-awesome)
