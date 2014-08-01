@@ -1,6 +1,6 @@
 # Awesome-awesome-awesome
 
-> A a curated list of curated lists of awesome lists.
+> A curated list of curated lists of awesome lists.
 
 ## awesome-awesomes
 
