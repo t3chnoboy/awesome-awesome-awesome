@@ -4,14 +4,13 @@
 
 ## awesome-awesomes
 
-- [awesome](https://github.com/sindresorhus/awesome)
-- [awesome-all](https://github.com/bradoyler/awesome-all)
-- [awesome-awesome](https://github.com/emijrp/awesome-awesome)
-- [awesome-awesome](https://github.com/erichs/awesome-awesome)
-- [awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome)
-- [awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
-- [awesome-awesomness](https://github.com/bayandin/awesome-awesomeness)
-
+- [@sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+- [@bradoyler/awesome-all](https://github.com/bradoyler/awesome-all)
+- [@emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
+- [@erichs/awesome-awesome](https://github.com/erichs/awesome-awesome)
+- [@oyvindrobertsen/awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome)
+- [@fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
+- [@bayandin/awesome-awesomness](https://github.com/bayandin/awesome-awesomeness)
 
 
 ## License
