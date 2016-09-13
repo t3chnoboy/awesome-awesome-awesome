@@ -11,7 +11,9 @@
 - [@oyvindrobertsen/awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome)
 - [@fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
 - [@bayandin/awesome-awesomness](https://github.com/bayandin/awesome-awesomeness)
+- [@Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
 - [@jnv/lists](https://github.com/jnv/lists)
+
 
 ## License
 
