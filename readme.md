@@ -12,6 +12,7 @@
 - [@fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
 - [@bayandin/awesome-awesomness](https://github.com/bayandin/awesome-awesomeness)
 - [@jnv/lists](https://github.com/jnv/lists)
+- [@t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
 
 ## License
 
