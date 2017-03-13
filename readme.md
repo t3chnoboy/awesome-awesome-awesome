@@ -13,6 +13,7 @@
 - [@bayandin/awesome-awesomness](https://github.com/bayandin/awesome-awesomeness)
 - [@jnv/lists](https://github.com/jnv/lists)
 - [@t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
+- [@sindresorhus/awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome)
 
 ## License
 
