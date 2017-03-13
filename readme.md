@@ -11,10 +11,12 @@
 - [@oyvindrobertsen/awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome)
 - [@fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
 - [@bayandin/awesome-awesomness](https://github.com/bayandin/awesome-awesomeness)
+- [@Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
 - [@jnv/lists](https://github.com/jnv/lists)
 - [@t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
 - [@sindresorhus/awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome)
 - [@scoopermaa/awesome-awesome](https://github.com/coopermaa/awesome-awesome)
+
 
 ## License
 
