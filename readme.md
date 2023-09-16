@@ -14,7 +14,7 @@
 - [@jnv/lists](https://github.com/jnv/lists)
 - [@t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
 - [@sindresorhus/awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome)
-- [@scoopermaa/awesome-awesome](https://github.com/coopermaa/awesome-awesome)
+- [@coopermaa/awesome-awesome](https://github.com/coopermaa/awesome-awesome)
 
 ## License
 
