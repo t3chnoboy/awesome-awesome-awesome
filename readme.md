@@ -15,6 +15,7 @@
 - [@t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
 - [@sindresorhus/awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome)
 - [@scoopermaa/awesome-awesome](https://github.com/coopermaa/awesome-awesome)
+- [@taranjeet/awesome-gpts](https://github.com/taranjeet/awesome-gpts/)
 
 ## License
 
