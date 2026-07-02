@@ -5,6 +5,7 @@
 ## awesome-awesomes
 
 - [@sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+- [@ishandutta2007/Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 - [@bradoyler/awesome-all](https://github.com/bradoyler/awesome-all)
 - [@emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
 - [@erichs/awesome-awesome](https://github.com/erichs/awesome-awesome)
