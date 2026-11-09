@@ -19,3 +19,4 @@
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Open-source native Swift Now Playing companion for macOS Dock.
